@@ -8,7 +8,7 @@ Anyone is welcome to download and use the blank tracker template for their own j
 
 ## Dashboard Preview
 
-![Job Search Analytics Dashboard](dashboard-preview/Job_Search_Analytics_Dashboard.png)
+![Job Search Analytics Dashboard](Dashboard.png)
 
 ## Project Purpose
 
